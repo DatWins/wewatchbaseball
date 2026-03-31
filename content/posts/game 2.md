@@ -3,6 +3,7 @@ title: "Game 2"
 date: "2026-03-27"
 tags: ["win", "home", "Diamondbacks"]
 
+type: "post"
 ---
 
 Game 2 
