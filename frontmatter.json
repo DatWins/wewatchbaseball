@@ -1,0 +1,82 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "date",
+          "name": "date",
+          "type": "datetime"
+        },
+        {
+          "title": "preview",
+          "name": "preview",
+          "type": "string"
+        },
+        {
+          "title": "tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "categories",
+          "name": "categories",
+          "type": "categories"
+        },
+        {
+          "title": "type",
+          "name": "type",
+          "type": "string"
+        },
+        {
+          "title": "lastmod",
+          "name": "lastmod",
+          "type": "datetime"
+        },
+        {
+          "title": "showTableOfContents",
+          "name": "showTableOfContents",
+          "type": "boolean"
+        }
+      ]
+    }
+  ],
+  "frontMatter.content.pageFolders": [
+    {
+      "path": "[[workspace]]/.frontmatter",
+      "title": ".frontmatter"
+    },
+    {
+      "title": "posts",
+      "path": "[[workspace]]/content/posts"
+    },
+    {
+      "title": "projects",
+      "path": "[[workspace]]/content/projects"
+    }
+  ],
+  "frontMatter.content.snippets": {
+    "Posts Snippet": {
+      "description": "Snippet",
+      "body": "[]",
+      "isMediaSnippet": true
+    }
+  },
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.git.enabled": false,
+  "frontMatter.preview.host": "http://localhost:1313"
+}
