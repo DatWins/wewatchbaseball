@@ -43,7 +43,7 @@ target = 'static/images'
     </script>
   """
 
-  description = "Just writing things down in case I may forget"
+  description = "Posting all the games of the 2026 Los Angeles Dodgers"
   footer = "How do I do this?"
   # metaKeywords = ["blog", "gokarna", "hugo"]
   showBackToTopButton = false # true or false for "back to top" button on posts and pages
