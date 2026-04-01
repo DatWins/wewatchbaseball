@@ -1,6 +1,6 @@
 ---
 title: "Game 5"
-date: "2026-03-308"
+date: "2026-03-31"
 tags: ["win", "away", "Cleveland"]
 
 type: "post"
