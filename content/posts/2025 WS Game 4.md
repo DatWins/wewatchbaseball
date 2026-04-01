@@ -8,4 +8,4 @@ tags:
 type: "post"
 ---
 
-### *{{<extlink text="Watch the video" href="https://www.youtube.com/watch?v=kipXGXpfZ2E" icon="fa fa-external-link">}}
+### *{{<extlink text="Watch the video" href="https://www.youtube.com/watch?v=0np-LNveLr8" icon="fa fa-external-link">}}
