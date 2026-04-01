@@ -19,7 +19,7 @@ target = 'static/images'
   avatarURL = "/images/avatar.webp"
   ShowBackToTopButton = false # true or false for "back to top" button on posts
   showPostsOnHomePage = "recent"
-  numberPostsOnHomePage = 5
+  numberPostsOnHomePage = 8
   togglePreviousAndNextButtons = true
 
   customHeadHTML = """
