@@ -8,5 +8,5 @@ type: "post"
 
 *{{<extlink text="Game 11 Wrap up" href="https://www.mlb.com/gameday/dodgers-vs-blue-jays/2026/04/07/822831/final/wrap" icon="fa fa-external-link">}}
 
-*{{<extlink text="Watch the video" href="youtube.com/watch?v=sZNPzq3n93U&pp=ygU_TUxCIEdhbWUgSGlnaGxpZ2h0cyAtIExvcyBBbmdlbGVzIERvZGdlcnMgdnMgVG9yb250byBCbHVlIEpheXMg" icon="fa fa-external-link">}}
+*{{<extlink text="Watch the video" href="https://www.youtube.com/watch?v=WLCh-XeeVj8" icon="fa fa-external-link">}}
 
