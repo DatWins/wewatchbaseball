@@ -1,6 +1,6 @@
 ---
 title: "Game 11"
-date: "2026-04-08"
+date: "2026-04-07"
 tags: ["win", "away", "Toronto" ]
 
 type: "post"
